@@ -9,7 +9,7 @@ I am studying to be a developer of artificial intelligence neural networks. I am
 * 🌍 I'm based in In Russia
 * ✉️ You can contact me at [deberdeevtn@gmail.com](mailto:deberdeevtn@gmail.com). 
 TG: @v1RUS77                          
-* ⚡ I'm learning a programming language Python and neural network developer
+* ⚡ I'm learning a programming language 
 
 ### Skills
 
