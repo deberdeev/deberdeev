@@ -3,8 +3,9 @@ Hi My name is Timur Deberdeev
 
 Developer of artificial intelligence neural networks
 ----------------------------------------------------
+**about me**
 
-I am studying to be a developer of artificial intelligence neural networks. I am also undergoing training in the Python programming language. Since 2022, I have experience working in the field of information technology as a business analystt.
+Previously, I worked in the banking sector in the sales department of banking products. Since 2022, I have been working as a business analyst in the IT department. Currently, I am studying to become a neural network and Python developer. You can check out my projects below
 
 * 🌍 I'm based in In Russia
 * ✉️ You can contact me at [deberdeevtn@gmail.com](mailto:deberdeevtn@gmail.com). 
