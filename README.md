@@ -19,3 +19,14 @@ MS SQL; Atlassian Jira; Matplotlib; TensorFlow; PyTorch; OpenCV; SkLearn; Keras;
 
 Previously, I worked in the banking sector in the sales department of banking products. Since 2022, I have been working as a business analyst in the IT department. Currently, I am studying to become a neural network and Python developer. You can check out my projects below. I have experience using the TensorFlow and PyTorch frameworks. I also have experience using the NumPy, Pandas, and SkLearn libraries for data analysis and preprocessing.
 I have a higher education. International Academy of Tourism
+
+### My projects
+
+**Neuro Assistant**
+https://github.com/deberdeev/Neuropresponder 
+
+**Bot-weather-forecast**
+https://github.com/deberdeev/Bot-weather-forecast
+
+**tg-bot-quiz**
+https://github.com/deberdeev/TG-Bot
