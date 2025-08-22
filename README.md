@@ -21,17 +21,19 @@ Previously, I worked in the banking sector in the sales department of banking pr
 I have a higher education. International Academy of Tourism
 
 ### PET projects
-
+----------------------------------------------------
 ### Neuro Assistant
 Developed a neuro-assistant that provides information about the IT  [Link to the project](https://github.com/deberdeev/Neuropresponder.md) 
 
 ***Stack:*** Python, OpenAI
 
+----------------------------------------------------
 ### Bot-weather-forecast
 This is a weather forecast bot. Write the name of the city to the bot and it will tell you what the temperature is there and how it feels. He will also provide a forecast for the next 7 days! [Link to the project](https://github.com/deberdeev/Bot-weather-forecast)
 
 ***Stack:*** Python
 
+----------------------------------------------------
 ### tg-bot-quiz
 Telegram bot based on a 10-question quiz game. Questions about the Python programming language [Link to the project](https://github.com/deberdeev/TG-Bot)
 
