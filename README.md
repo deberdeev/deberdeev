@@ -22,6 +22,12 @@ I have a higher education. International Academy of Tourism
 
 ### PET projects
 ----------------------------------------------------
+### Uploading-a-photo-and-captions-to-it
+In this work, we use kagglehub to download the Flickr8k dataset, which contains images and their descriptions. A pre-trained ResNet50 model is used to extract image features and the Seq2Seq model. [Link to the project](https://github.com/deberdeev/Uploading-a-photo-and-captions-to-it)
+
+***Stack:*** Python, tensorflow, keras 
+
+----------------------------------------------------
 ### Neuro Assistant
 Developed a neuro-assistant that provides information about the IT  [Link to the project](https://github.com/deberdeev/Neuropresponder.md) 
 
@@ -38,3 +44,6 @@ This is a weather forecast bot. Write the name of the city to the bot and it wil
 Telegram bot based on a 10-question quiz game. Questions about the Python programming language [Link to the project](https://github.com/deberdeev/TG-Bot)
 
 ***Stack:*** Python
+
+
+
