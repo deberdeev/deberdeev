@@ -29,7 +29,7 @@ In this work, we use kagglehub to download the Flickr8k dataset, which contains 
 
 ----------------------------------------------------
 ### Neuro Assistant
-Developed a neuro-assistant that provides information about the IT  [Link to the project](https://github.com/deberdeev/Neuropresponder.md) 
+Developed a neuro-assistant that provides information about the IT  [Link to the project](https://github.com/deberdeev/Neuropresponder) 
 
 ***Stack:*** Python, OpenAI
 
