@@ -45,5 +45,8 @@ Telegram bot based on a 10-question quiz game. Questions about the Python progra
 
 ***Stack:*** Python
 
+----------------------------------------------------
+### Optimization-of-hyperparameters-using-a-genetic-algorithm
+This paper implements a hyperparameter optimization process using a genetic algorithm to automatically optimize the hyperparameters of three different neural network architectures. All models are trained on the same dataset, load_wine() from the sklearn library [Link to the project](https://github.com/deberdeev/Optimization-of-hyperparameters-using-a-genetic-algorithm) 
 
 
