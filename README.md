@@ -22,6 +22,12 @@ I have a higher education. International Academy of Tourism
 
 ### PET projects
 ----------------------------------------------------
+### Optimization-of-hyperparameters-using-a-genetic-algorithm
+This paper implements a hyperparameter optimization process using a genetic algorithm to automatically optimize the hyperparameters of three different neural network architectures. All models are trained on the same dataset, load_wine() from the sklearn library [Link to the project](https://github.com/deberdeev/Optimization-of-hyperparameters-using-a-genetic-algorithm) 
+
+***Stack:*** Python, keras, sklearn
+
+----------------------------------------------------
 ### Uploading-a-photo-and-captions-to-it
 In this work, we use kagglehub to download the Flickr8k dataset, which contains images and their descriptions. A pre-trained ResNet50 model is used to extract image features and the Seq2Seq model. [Link to the project](https://github.com/deberdeev/Uploading-a-photo-and-captions-to-it)
 
@@ -46,8 +52,5 @@ Telegram bot based on a 10-question quiz game. Questions about the Python progra
 ***Stack:*** Python
 
 ----------------------------------------------------
-### Optimization-of-hyperparameters-using-a-genetic-algorithm
-This paper implements a hyperparameter optimization process using a genetic algorithm to automatically optimize the hyperparameters of three different neural network architectures. All models are trained on the same dataset, load_wine() from the sklearn library [Link to the project](https://github.com/deberdeev/Optimization-of-hyperparameters-using-a-genetic-algorithm) 
 
-***Stack:*** Python, keras, sklearn
 
