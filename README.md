@@ -21,6 +21,13 @@ Previously, I worked in the banking sector in the sales department of banking pr
 I have a higher education. International Academy of Tourism
 
 ### PET projects
+
+----------------------------------------------------
+### My_first_App_AIChatFlutte
+A multi-platform Flutter app for communicating with AI with support for OpenRouter and VseGPT providers, token usage statistics, and a daily expense chart. It features a multi-page architecture, local storage of settings and analytics, and dynamic loading of available models with name search. [Link to the project](https://github.com/deberdeev/My_first_App_AIChatFlutte) 
+
+***Stack:*** Flutter, Dart, С++, HTTP (REST, JSON)
+
 ----------------------------------------------------
 ### Optimization-of-hyperparameters-using-a-genetic-algorithm
 This paper implements a hyperparameter optimization process using a genetic algorithm to automatically optimize the hyperparameters of three different neural network architectures. All models are trained on the same dataset, load_wine() from the sklearn library [Link to the project](https://github.com/deberdeev/Optimization-of-hyperparameters-using-a-genetic-algorithm) 
